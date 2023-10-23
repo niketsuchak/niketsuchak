@@ -23,10 +23,14 @@
 
 [![An image of @niketsuchak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niketsuchak)](https://holopin.io/@niketsuchak)
 
-<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niketsuchak&show_icons=true&locale=en&layout=compact" alt="niketsuchak" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=niketsuchak&" alt="niketsuchak" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niketsuchak&show_icons=true&locale=en" alt="niketsuchak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niketsuchak&" alt="niketsuchak" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=niketsuchak&show_icons=true&locale=en&layout=compact" alt="niketsuchak" /></p>
+
+
